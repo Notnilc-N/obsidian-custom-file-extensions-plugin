@@ -5,8 +5,8 @@ I am developing a bullet hell mmo game and I am looking to hire a bedrotting nee
 Go to your vault's home folder, go to .obsidian\plugins\, make a new folder called obsidian-custom-file-extensions-plugin and paste the contents of this repo into that folder.
 
 # Changes
-- Added ![[note]] support for custom file extensions.
-- Added [[note#heading]] support for custom file extensions.
+- Added live-preview ![[note]] support for custom file extensions.
+- Added [[note#heading]] support for custom file extensions (works with live-preview).
   - The headings don't show up in the drop down menu, but the link works if you manually type it in.
 
 # Yeah nah idk what the fuck I'm doing
